@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-o1t5rprdr1jz74uf.us.auth0.com"
      clientId="OSvnBSnVMHzZUY4jh4YecEi62Ns6dNEe"
      authorizationParams={{
-      redirect_uri: "http://localhost:5173/"
+      redirect_uri: "https://final-peak-u-indol.vercel.app"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"
